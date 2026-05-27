@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
 hola
 alan
@@ -6,3 +7,6 @@ hola
 
 hola amigios
 
+
+hola mundo
+rama3
